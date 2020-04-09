@@ -1,0 +1,4 @@
+global:
+  namespace: testns
+  dns: platform.r53.domain.net
+  env: test
